@@ -54,7 +54,6 @@
     </td>
     <td width="25%" valign="top">
       <h2 align="center">🔌 嵌入式系统</h2>
-      
       <p>• STM32、51项目开发</p>
       <p>• pcb电路设计</p>
       <p>• 硬件电路设计与调试</p>
