@@ -1,12 +1,10 @@
 <!-- GitHub 个人主页：Arcade Lab 中文完整版 -->
 
-<div align="center">
+<<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:12002F,50:5B21B6,100:00E5FF&text=CuS%20LAB&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=具身智能%20·%20自主导航%20·%20自主导航%20·%20嵌入式%20网络安全&descAlignY=68&descSize=17&animation=twinkling" alt="CuS 实验室" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:12002F,50:5B21B6,100:00E5FF&text=CuS%20LAB&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=具身智能%20·%20自主导航%20·%20嵌入式系统%20·%20网络安全&descAlignY=68&descSize=17&animation=twinkling" alt="CuS 实验室" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=让机器人理解环境、规划行动并走进现实;研究具身智能、SLAM与自主导航;将VLN算法部署到真实机器人平台" />
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/lljj123">
   <img src="https://img.shields.io/badge/GitHub-lljj123-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -14,7 +12,6 @@
 <a href="mailto:1581094438@qq.com">
   <img src="https://img.shields.io/badge/联系邮箱-1581094438%40qq.com-7C3AED?style=flat-square&logo=maildotru&logoColor=white" alt="联系邮箱" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=lljj123&label=主页访问量&color=00E5FF&style=flat-square" alt="主页访问量     " />
 
 </div>
 
@@ -185,14 +182,6 @@
 ---
 
 ## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lljj123&show_icons=true&hide_border=true&theme=synthwave&locale=cn&rank_icon=percentile" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lljj123&layout=compact&hide_border=true&theme=synthwave&locale=cn" />
-
-</div>
 
 <div align="center">
 
