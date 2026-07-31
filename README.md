@@ -1,11 +1,9 @@
 <!-- GitHub 个人主页：Arcade Lab 中文完整版 -->
 
-<<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:12002F,50:5B21B6,100:00E5FF&text=CuS%20LAB&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=具身智能%20·%20自主导航%20·%20嵌入式系统%20·%20网络安全&descAlignY=68&descSize=17&animation=twinkling" alt="CuS 实验室" />
-
 <br/><br/>
-
 <a href="https://github.com/lljj123">
   <img src="https://img.shields.io/badge/GitHub-lljj123-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -56,6 +54,7 @@
     </td>
     <td width="25%" valign="top">
       <h2 align="center">🔌 嵌入式系统</h2>
+      
       <p>• STM32、51项目开发</p>
       <p>• pcb电路设计</p>
       <p>• 硬件电路设计与调试</p>
