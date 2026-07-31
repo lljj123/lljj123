@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:12002F,50:5B21B6,100:00E5FF&text=CuS%20LAB&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=机器人智能%20·%20SLAM%20·%20自主导航%20·%20嵌入式系统&descAlignY=68&descSize=17&animation=twinkling" alt="CuS 实验室" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:12002F,50:5B21B6,100:00E5FF&text=CuS%20LAB&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=具身智能%20·%20自主导航%20·%20自主导航%20·%20嵌入式%20网络安全&descAlignY=68&descSize=17&animation=twinkling" alt="CuS 实验室" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=让机器人理解环境、规划行动并走进现实;研究具身智能、SLAM与自主导航;将VLN算法部署到真实机器人平台" alt="个人研究方向" />
 
@@ -26,10 +26,10 @@
 - 🔭 **关注方向** 机器人导航 · 具身智能 · 深度学习 · 嵌入式 · 量化交易 · 网络安全
 - 🌱 **正在学习** 视觉-语言-导航（VLN），pytorch深度学习
 - 🤝 **当前需求** 项目合作 · 技术交流
-- 🧠 主线是面向移动机器人的自主导航系统，环境感知、SLAM、路径规划、动态避障
-- 🔌 具备STM32、单片机、传感器、pcb电路设计和硬件电路相关实践经验
-- 🛡️ 对网络安全、渗透测试、蜜罐、APT、靶场实践感兴趣且有经验
-- 📈 关注量化交易，交易策略研究，包括因子构建、历史回测、风险控制与自动化交易系统
+- 🧠 主线是面向移动机器人的自主导航系统
+- 🔌 有过嵌入式、pcb电路设计和硬件电路实践经验
+- 🛡️ 对网络安全、渗透测试感兴趣
+- 📈 关注量化交易，交易策略研究
 - 🌐 具备网站搭建、Linux 服务器配置和服务器项目部署经验
 - 📫 联系方式：[1581094438@qq.com](mailto:1581094438@qq.com)
 
@@ -40,36 +40,38 @@
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h2 align="center">🤖 具身智能</h2>
+      <h2 align="center">🤖 具身智能与机器人导航</h2>
       <p>• 视觉—语言导航（VLN）</p>
+      <p>• Agent VLN</p>
+      <p>• Habitat、gazebo仿真器</p>
+      <p>• 用 RTAB-Map、cartographyer、fastlio 完成机器人建图</p>
+      <p>• 配置 move_base、代价地图及全局和DEB局部路径规划</p>
       <p>• 视觉—语言—动作模型</p>
-      <p>• 智能体感知与决策</p>
-      <p>• 世界模型与空间推理</p>
-      <p>• 多模态人工智能工具</p>
+      <p>• 多模态AI工具</p>
     </td>
     <td width="25%" valign="top">
-      <h2 align="center">🧭 SLAM 与导航</h2>
-      <p>• 同步定位与地图构建</p>
-      <p>• 多传感器信息融合</p>
+      <h2 align="center">🧭 ROS系统集成与调试 </h2>
+      <p>• ROS1 / ROS2 节点与功能包开发</p>
+      <p>• TF、Launch 与参数配置</p>
       <p>• 路径规划与运动控制</p>
-      <p>• ROS / ROS 2 系统开发</p>
-      <p>• 导航算法部署与调试</p>
+      <p>• 底盘、相机、机械臂模块集成</p>
+      <p>• 多机通信与系统联调</p>
     </td>
     <td width="25%" valign="top">
       <h2 align="center">🔌 嵌入式系统</h2>
-      <p>• STM32 项目开发</p>
-      <p>• 单片机软硬件设计</p>
+      <p>• STM32、51项目开发</p>
+      <p>• pcb电路设计</p>
       <p>• 硬件电路设计与调试</p>
-      <p>• 传感器与执行器控制</p>
-      <p>• 嵌入式系统工程实践</p>
+      <p>• 嵌入式系统工程设计</p>
     </td>
     <td width="25%" valign="top">
       <h2 align="center">🛡️ 网络安全</h2>
-      <p>• 网络安全基础与渗透测试</p>
-      <p>• Web 安全与漏洞分析</p>
-      <p>• 网络安全靶场实践</p>
+      <p>• 网络安全靶场搭建与渗透测试实践</p>
+      <p>• Web安全与漏洞分析</p>
+      <p>• 蜜罐部署以及分析</p>
+      <p>• APT攻击链研究</p>
       <p>• Linux 服务器安全运维</p>
-      <p>• 网站与云服务器部署</p>
+      <p>• 网站与云服务器项目部署</p>
     </td>
   </tr>
 </table>
@@ -105,46 +107,61 @@
 
 ---
 
-## 🤝 求职与项目合作
+## 🤝 项目历程
 
-目前希望寻找以下方向的实习、校招、全职工作或项目合作机会：
+### 🤖 基于 OpenClaw 的视觉—语言导航与目标抓取系统
 
-- 具身智能与机器人算法
-- 视觉—语言导航及多模态人工智能
-- SLAM、定位、建图和自主导航
-- ROS / ROS 2 机器人系统开发
-- 机器人算法的实体平台部署
-- STM32、单片机与嵌入式系统开发
-- 人工智能工具与智能体应用开发
+以自然语言指令为任务入口，结合视觉感知、移动导航与目标抓取能力，构建从指令理解、目标识别、路径执行到抓取操作的机器人任务流程，探索 OpenClaw 在机器人任务规划与工具调用中的应用。
 
-也希望与机器人领域的开发者和研究者交流项目实践、行业经验、求职准备与职业发展。
+### 🌡️ 基于 STM32 的蓝牙温湿度监测系统
+
+以 STM32 为控制核心，通过STM32cubemx和keil完成温湿度传感器数据采集、数据处理、语音播报及蓝牙通信功能，实现环境温湿度信息的实时监测与无线传输。
+
+### 📅 基于 51 单片机的万年历系统
+
+基于 51 系列单片机完成日期与时间显示、时间校准、闰年判断及月份天数计算等功能，实践单片机外设驱动、显示控制和按键交互。并通过嘉立创设计pcb电路最终焊接。
+
+### 🧭 松灵移动机器人 SLAM 与自主导航部署
+
+在松灵移动机器人平台上完成 Cartographer 建图与 ROS Navigation 导航功能的部署和调试，包括传感器数据接入、TF 坐标系配置、地图构建、机器人定位、路径规划及导航参数优化。
+
+
 
 ---
 
-## 💬 可以和我交流
+## 💬 可以和我交流or合作
 
 <details open>
   <summary><b>🤖 机器人与人工智能</b></summary>
   <br/>
-  具身智能、视觉—语言导航、SLAM、路径规划、ROS、导航算法以及实体机器人部署。
+  具身智能、机器人导航、SLAM、路径规划、ROS以及实体机器人部署。
+  AI工具、AI技术，Agent skill
 </details>
 
 <details>
   <summary><b>🔌 嵌入式系统与硬件</b></summary>
   <br/>
-  STM32、单片机项目、传感器控制、执行器控制、硬件电路设计与调试。
+  STM32、单片机项目、PCB电路设计、硬件电路调试。
 </details>
 
 <details>
   <summary><b>🛡️ 网络安全</b></summary>
   <br/>
-  网络安全基础、渗透测试、Web 安全、漏洞分析、网络安全靶场和攻防实践。
+  渗透测试、漏洞分析、网络安全靶场、蜜罐分析、APT攻击链分析和攻防实践。
+  ic卡破解
+  手机刷机，BootLoader破解，magisk刷入
 </details>
 
 <details>
   <summary><b>🌐 工程部署</b></summary>
   <br/>
   Linux 系统、网站搭建、云服务器配置、Docker 容器以及项目部署。
+</details>
+
+<details>
+  <summary><b>🌐 量化交易</b></summary>
+  <br/>
+  交易策略研究、因子构建、历史回测风险控制与自动化交易系统
 </details>
 
 ---
@@ -188,8 +205,7 @@
 
 ## 🌌 关于生活
 
-> 热爱科技、人工智能与真实世界中的工程创造。  
-> 热爱生活，也是《三体》的忠实读者。  
+> 热爱科技、AI and《三体》    
 > 相信持续学习、动手实践和长期积累，能够让想法真正落地。
 
 <div align="center">
