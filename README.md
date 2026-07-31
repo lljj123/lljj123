@@ -33,44 +33,46 @@
 ## 🗺️ 研究与实践方向
 
 <table>
-  <tr>
-    <td width="25%" valign="top">
-      <h2 align="center">🤖 具身智能与机器人导航</h2>
-      <p>• 视觉—语言导航（VLN）</p>
-      <p>• Agent VLN</p>
-      <p>• Habitat、gazebo仿真器</p>
-      <p>• 用 RTAB-Map、cartographyer、fastlio 完成机器人建图</p>
-      <p>• 配置 move_base、代价地图及全局和DEB局部路径规划</p>
-      <p>• 视觉—语言—动作模型</p>
-      <p>• 多模态AI工具</p>
-    </td>
-    <td width="25%" valign="top">
-      <h2 align="center">🧭 ROS系统集成与调试 </h2>
-      <p>• ROS1 / ROS2 节点与功能包开发</p>
-      <p>• TF、Launch 与参数配置</p>
-      <p>• 路径规划与运动控制</p>
-      <p>• 底盘、相机、机械臂模块集成</p>
-      <p>• 多机通信与系统联调</p>
-    </td>
-    <td width="25%" valign="top">
-      <h2 align="center">🔌 嵌入式系统</h2>
-      <p>• STM32、51项目开发</p>
-      <p>• pcb电路设计</p>
-      <p>• 硬件电路设计与调试</p>
-      <p>• 嵌入式系统工程设计</p>
-    </td>
-    <td width="25%" valign="top">
-      <h2 align="center">🛡️ 网络安全</h2>
-      <p>• 网络安全靶场搭建与渗透测试实践</p>
-      <p>• Web安全与漏洞分析</p>
-      <p>• 蜜罐部署、攻击流量采集与日志分析</p>
-      <p>• APT攻击链、 社会工程学攻击研究</p>
-      <p>• Linux 服务器安全运维</p>
-      <p>• 网站与云服务器项目部署</p>
-    </td>
-  </tr>
+<tr>
+<td width="25%" height="90" align="center" valign="middle"><h3>🤖 具身智能与<br/>机器人导航</h3></td>
+<td width="25%" height="90" align="center" valign="middle"><h3>🧭 ROS 系统集成<br/>与调试</h3></td>
+<td width="25%" height="90" align="center" valign="middle"><h3>🔌 嵌入式系统</h3></td>
+<td width="25%" height="90" align="center" valign="middle"><h3>🛡️ 网络安全</h3></td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+<p>• 视觉—语言导航（VLN）</p>
+<p>• 智能体驱动的 VLN 方法</p>
+<p>• Habitat、Gazebo 仿真环境</p>
+<p>• 使用 RTAB-Map、Cartographer、FAST-LIO 完成机器人建图</p>
+<p>• 配置 move_base、代价地图、全局规划器与 DWA 局部规划器</p>
+<p>• 视觉—语言—动作模型</p>
+<p>• 多模态 AI 工具应用</p>
+</td>
+<td width="25%" valign="top">
+<p>• ROS 1 / ROS 2 节点与功能包开发</p>
+<p>• TF 坐标系、Launch 文件与参数配置</p>
+<p>• 导航栈配置、路径规划与运动控制</p>
+<p>• 底盘、相机与机械臂模块集成</p>
+<p>• 多机通信与系统联合调试</p>
+</td>
+<td width="25%" valign="top">
+<p>• STM32、51 系列单片机项目开发</p>
+<p>• PCB 原理图与电路板设计</p>
+<p>• 硬件电路焊接、测量与故障排查</p>
+<p>• 传感器数据采集与执行器控制</p>
+<p>• 单片机与上位机通信及联合调试</p>
+</td>
+<td width="25%" valign="top">
+<p>• 网络安全靶场搭建与攻防实践</p>
+<p>• Web 常见漏洞复现、验证与分析</p>
+<p>• 蜜罐部署、攻击流量采集与日志分析</p>
+<p>• APT 攻击链与社会工程学研究</p>
+<p>• Linux 服务器配置、安全加固与运维</p>
+<p>• 网站及云服务器项目部署</p>
+</td>
+</tr>
 </table>
-
 ---
 
 ## 🚀 当前学习与项目
@@ -129,7 +131,7 @@
 <details open>
   <summary><b>🤖 机器人与人工智能</b></summary>
   <br/>
-  具身智能、机器人导航、SLAM、路径规划、ROS以及实体机器人部署。
+  具身智能、机器人导航、SLAM、路径规划、ROS以及实体机器人部署。<br/>
   AI工具、AI技术，Agent skill
 </details>
 
@@ -142,9 +144,8 @@
 <details>
   <summary><b>🛡️ 网络安全</b></summary>
   <br/>
-  渗透测试、漏洞分析、网络安全靶场、蜜罐分析、APT攻击链分析、社会工程学攻击和攻防实践。
-  ic卡破解
-  手机刷机，BootLoader破解，magisk刷入
+  渗透测试、漏洞分析、网络安全靶场、蜜罐分析、APT攻击链分析、社会工程学攻击和攻防实践。<br/>
+  ic卡破解，手机刷机，BootLoader破解，magisk刷入
 </details>
 
 <details>
