@@ -171,7 +171,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,arduino,linux,docker,git,github&theme=dark&perline=10" alt="技术栈" />
-
 <br/><br/>
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -188,9 +187,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lljj123&show_icons=true&hide_border=true&theme=synthwave&locale=cn&rank_icon=percentile" alt="GitHub 数据" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lljj123&show_icons=true&hide_border=true&theme=synthwave&locale=cn&rank_icon=percentile" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lljj123&layout=compact&hide_border=true&theme=synthwave&locale=cn" alt="常用编程语言" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lljj123&layout=compact&hide_border=true&theme=synthwave&locale=cn" />
 
 </div>
 
